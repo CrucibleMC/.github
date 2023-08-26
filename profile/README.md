@@ -1,12 +1,6 @@
-## Hi there 👋
+[![Discord](https://img.shields.io/discord/682358465175355393?style=flat-square&logo=discord&logoColor=%235865F2&label=discord&color=%235865F2)](https://discord.gg/jWSTJ4d)
+[![Crucible Release](https://img.shields.io/github/v/release/CrucibleMC/Crucible?color=sucess&style=flat-square&label=Download%20Crucible)](https://github.com/CrucibleMC/Crucible/releases/latest)
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Crucible MC
+Hey there, welcome to Crucible MC – Where we're all about making legacy servers lesser of a pain! Born from a collective of friends annoyed by the pervasive issues found on Thermos, our goal is to sort out those pesky issues for all server owners while innovating with new mods that enhance the overall experience of legacy Minecraft.
+Stay in touch with Crucible development, updates and support at our [discord](https://discord.gg/jWSTJ4d).
